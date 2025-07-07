@@ -4,8 +4,6 @@
 **Aluno(a):** Julia Sudário Silva  
 **RA:** 007217  
 
----
-
 ## Descrição
 Este projeto implementa um sistema de gerenciamento de cidades e rotas em Java, utilizando um grafo não direcionado para representar conexões entre cidades. O sistema permite listar conexões de uma cidade, verificar caminhos entre cidades, identificar cidades sem conexões, exibir a cidade mais populosa e listar todas as cidades cadastradas. As cidades e rotas são pré-definidas, e o sistema possui um menu interativo com seleção por números.
 
