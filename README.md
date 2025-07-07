@@ -21,7 +21,7 @@ Este projeto implementa um sistema de gerenciamento de cidades e rotas em Java, 
 - `LinkedList`: para busca em largura (BFS)
 
 ## Observações
-Desenvolvido como parte da disciplina de Estruturas de Dados (SIS-ED2-2025-1). Para algumas partes complexas, como a implementação do algoritmo de busca em largura, utilizei o Grok como ferramenta de apoio para esclarecer conceitos e otimizar a lógica, mantendo a autoria e compreensão do código.
+Desenvolvido como parte da disciplina de Estruturas de Dados II. Para algumas partes complexas, como a implementação do algoritmo de busca em largura (BFS), utilizei o Grok como ferramenta de apoio para esclarecer conceitos e otimizar a lógica, mantendo a autoria e compreensão do código.
 
 ## Como Executar
 1. Compile os arquivos Java (`Cidade.java`, `Rota.java`, `MapaCidades.java`, `Main.java`).
